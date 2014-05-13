@@ -1,0 +1,15 @@
+C:\Users\adam.bonney\Documents\GitHub\Abo\CSharp\EulerProblems\EulerProblems\bin\Debug\EulerProblems.dll
+C:\Users\adam.bonney\Documents\GitHub\Abo\CSharp\EulerProblems\EulerProblems\bin\Debug\EulerProblems.pdb
+C:\Users\adam.bonney\Documents\GitHub\Abo\CSharp\EulerProblems\EulerProblems\obj\Debug\EulerProblems.csprojResolveAssemblyReference.cache
+C:\Users\adam.bonney\Documents\GitHub\Abo\CSharp\EulerProblems\EulerProblems\obj\Debug\EulerProblems.dll
+C:\Users\adam.bonney\Documents\GitHub\Abo\CSharp\EulerProblems\EulerProblems\obj\Debug\EulerProblems.pdb
+C:\Users\adambo\Documents\GitHub\Abo\CSharp\EulerProblems\EulerProblems\obj\Debug\EulerProblems.csprojResolveAssemblyReference.cache
+C:\Users\adambo\Documents\GitHub\Abo\CSharp\EulerProblems\EulerProblems\obj\Debug\EulerProblems.dll
+C:\Users\adambo\Documents\GitHub\Abo\CSharp\EulerProblems\EulerProblems\obj\Debug\EulerProblems.pdb
+C:\Users\adambo\Documents\GitHub\Abo\CSharp\EulerProblems\EulerProblems\bin\Debug\EulerProblems.dll
+C:\Users\adambo\Documents\GitHub\Abo\CSharp\EulerProblems\EulerProblems\bin\Debug\EulerProblems.pdb
+C:\Users\adambo\Documents\GitHub\CSharpEulerProblems\EulerProblems\bin\Debug\EulerProblems.dll
+C:\Users\adambo\Documents\GitHub\CSharpEulerProblems\EulerProblems\bin\Debug\EulerProblems.pdb
+C:\Users\adambo\Documents\GitHub\CSharpEulerProblems\EulerProblems\obj\Debug\EulerProblems.csprojResolveAssemblyReference.cache
+C:\Users\adambo\Documents\GitHub\CSharpEulerProblems\EulerProblems\obj\Debug\EulerProblems.dll
+C:\Users\adambo\Documents\GitHub\CSharpEulerProblems\EulerProblems\obj\Debug\EulerProblems.pdb
