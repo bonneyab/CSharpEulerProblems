@@ -40,6 +40,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FizzBuzz.cs" />
+    <Compile Include="DeathCircle.cs" />
     <Compile Include="Helpers\LargeNumberHelper.cs" />
     <Compile Include="Problem19.cs" />
     <Compile Include="Problem16.cs" />
