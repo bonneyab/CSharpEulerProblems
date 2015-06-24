@@ -12,3 +12,4 @@ C:\Users\adambo\Documents\GitHub\CSharpEulerProblems\EulerProblems\bin\Debug\Eul
 C:\Users\adambo\Documents\GitHub\CSharpEulerProblems\EulerProblems\bin\Debug\EulerProblems.pdb
 C:\Users\adambo\Documents\GitHub\CSharpEulerProblems\EulerProblems\obj\Debug\EulerProblems.dll
 C:\Users\adambo\Documents\GitHub\CSharpEulerProblems\EulerProblems\obj\Debug\EulerProblems.pdb
+C:\Users\adambo\Documents\GitHub\CSharpEulerProblems\EulerProblems\obj\Debug\EulerProblems.csprojResolveAssemblyReference.cache
