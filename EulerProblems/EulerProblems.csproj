@@ -40,6 +40,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AmazonProblem1.cs" />
+    <Compile Include="AmazonProblem2.cs" />
     <Compile Include="Helpers\PowerSet.cs" />
     <Compile Include="Problem50.cs" />
     <Compile Include="FizzBuzz.cs" />
