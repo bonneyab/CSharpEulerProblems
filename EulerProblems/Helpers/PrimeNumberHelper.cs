@@ -35,6 +35,6 @@ namespace EulerProblems.Helpers {
 				}
 			}
 			return numbers.Where(n => n.Value).Select(n => n.Key).ToList();
-		} 
+		}
 	}
 }

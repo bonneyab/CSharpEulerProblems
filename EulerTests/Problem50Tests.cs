@@ -30,7 +30,7 @@ namespace EulerTests
             var problem = new Problem50();
 
             var actual = problem.ConsecutivePrimeSum(1000000);
-            Assert.AreEqual(953, actual);
+            Assert.AreEqual(997651, actual);
         }
     }
 }

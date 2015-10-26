@@ -3,7 +3,7 @@ using System.Linq;
 
 namespace EulerProblems {
 	public class StringPermutations {
-		public IEnumerable<string> Permute(string word) {
+		public static IEnumerable<string> Permute(string word) {
 			if (word.Length > 1) {
 				var character = word[0];
 				foreach (var sub in Permute(word.Substring(1))) {
