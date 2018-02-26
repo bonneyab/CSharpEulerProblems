@@ -9,6 +9,7 @@ namespace EulerProblems {
 		public int GetSumOfMultiplesBelowNumber(int number, List<int> multiples) {
 			return Enumerable.Range(1, number - 1).Sum(i => {
 				return multiples.Any(m => i % m == 0) ? i : 0;
+				//haha!
 			});
 		}
 	}
