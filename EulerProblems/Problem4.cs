@@ -1,5 +1,5 @@
 ﻿using System;
-using System.Linq;
+using EulerProblems.Helpers;
 
 namespace EulerProblems {
 	//A palindromic number reads the same both ways. The largest palindrome made from the product of two 2-digit numbers is 9009 = 91 × 99.
@@ -21,7 +21,7 @@ namespace EulerProblems {
 			for (var i = start; i > 0; i--) {
 				for (var j = start; j > 0; j--) {
 					var current = i*j;
-					if (IsPalindromic(current) && current > biggestPalindrome) {
+					if (current.IsPalindromic() && current > biggestPalindrome) {
 						biggestPalindrome = current;
 					}
 				}
@@ -32,11 +32,6 @@ namespace EulerProblems {
 
 		private static int AddDigit(int start) {
 			return start * 10 + 9;
-		}
-
-		public static bool IsPalindromic(int number) {
-			var s = number.ToString();
-			return s ==  new string(s.Reverse().ToArray());
 		}
 	}
 }

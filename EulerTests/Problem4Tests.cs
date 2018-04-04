@@ -1,4 +1,5 @@
 ﻿using EulerProblems;
+using EulerProblems.Helpers;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace EulerTests {
@@ -20,12 +21,12 @@ namespace EulerTests {
 
 		[TestMethod]
 		public void IsPalindromic_IsPaladrome_returnsTrue() {
-			Assert.IsTrue(Problem4.IsPalindromic(9009));
+			Assert.IsTrue(9009.IsPalindromic());
 		}
 
 		[TestMethod]
 		public void IsPalindromic_IsNotPalindrome_returnsFalse() {
-			Assert.IsFalse(Problem4.IsPalindromic(123));
+			Assert.IsFalse(123.IsPalindromic());
 		}
 	}
 }

@@ -46,6 +46,7 @@
     <Compile Include="Problem43.cs" />
     <Compile Include="Problem41.cs" />
     <Compile Include="Helpers\PowerSet.cs" />
+    <Compile Include="Problem55.cs" />
     <Compile Include="Problem50.cs" />
     <Compile Include="FizzBuzz.cs" />
     <Compile Include="DeathCircle.cs" />

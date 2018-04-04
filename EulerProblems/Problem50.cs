@@ -26,7 +26,7 @@ namespace EulerProblems
             var primes = PrimeNumberHelper.GetPrimeNumbersBelowNumber(max);
 
             var allSums = new List<List<Tuple<int, int>>>();
-            int i = 0;
+            var i = 0;
             while (i < primes.Count)
             {
                 var sums = new List<Tuple<int, int>>();

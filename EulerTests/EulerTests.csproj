@@ -54,6 +54,7 @@
     <Compile Include="AmazonProblem2Tests.cs" />
     <Compile Include="Problem43Tests.cs" />
     <Compile Include="Problem41Tests.cs" />
+    <Compile Include="Problem55Tests.cs" />
     <Compile Include="Problem50Tests.cs" />
     <Compile Include="FizzBuzzTests.cs" />
     <Compile Include="DeathCircleTests.cs" />

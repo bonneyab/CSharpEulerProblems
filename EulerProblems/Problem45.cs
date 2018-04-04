@@ -22,7 +22,7 @@ namespace EulerProblems
             while (true)
             {
                 var hexNumbers = Enumerable.Range(start, start + 100000).Select(hex);
-                var pentNumbers = 
+                //var pentNumbers = 
             }
         }
     }

@@ -19,3 +19,5 @@ C:\Users\adambo\Documents\GitHub\CSharpEulerProblems\EulerTests\bin\Debug\EulerP
 C:\Users\adambo\Documents\GitHub\CSharpEulerProblems\EulerTests\obj\Debug\EulerTests.csprojResolveAssemblyReference.cache
 C:\Users\adambo\Documents\GitHub\CSharpEulerProblems\EulerTests\obj\Debug\EulerTests.dll
 C:\Users\adambo\Documents\GitHub\CSharpEulerProblems\EulerTests\obj\Debug\EulerTests.pdb
+C:\Users\adambo\Documents\GitHub\CSharpEulerProblems\EulerTests\obj\Debug\EulerTests.csproj.CoreCompileInputs.cache
+C:\Users\adambo\Documents\GitHub\CSharpEulerProblems\EulerTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
